@@ -59,7 +59,7 @@ p{
     margin: 30px 0;
 }
 
-a{
+.tlacitko {
     text-decoration: none;
     display: block;
     text-transform: uppercase;
@@ -67,13 +67,12 @@ a{
     font-weight: bold;
     color: white;
     text-align: center;
-    border-radius: 5px;
     padding: 10px;
 }
 
 .twitter {
     background-color: #1da1f2;
-    border-radius: 5px;
+    border-radius: 5px; 
     
 }
 
@@ -81,6 +80,7 @@ a{
     background-color: #3b5998;
     margin-top: 5px;
     border-radius: 5px;
+   
 }
 
 .facebook a:hover{
